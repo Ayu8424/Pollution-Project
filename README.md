@@ -1,9 +1,9 @@
 # Pollution Analysis Project 🌍💨
 
-# Overview
-This project analyzes air pollution levels across different cities using historical pollution data. The goal is to identify trends, visualize key pollutants, and derive meaningful insights using Python and data science techniques.
+# Overview:
+This project analyzes air pollution levels across different cities using historical pollution data of 2015 - 2020. The goal is to identify trends, visualize key pollutants, and derive meaningful insights using Python and data science techniques.
 
-# The Questions
+# The Questions:
 
 1️⃣ *How does pollution vary across different cities? (City-wise pollution level analysis)*
 
@@ -22,19 +22,19 @@ Date and city-wise pollution records
 Pollutants like PM2.5, PM10, NO2, CO, SO2, O3
 AQI and AQI Category 
 
-# Technologies Used
+# Technologies Used:
 📌 Python (Pandas, NumPy, Matplotlib, Seaborn)
 📌 Jupyter Notebook
 📌 Data Visualization
 
-# Key Analysis & Insights
+# Key Analysis & Insights:
 ✔️ Data Cleaning & Preprocessing
 ✔️ Exploratory Data Analysis (EDA)
 ✔️ Trends of key pollutants over time
 ✔️ City-wise pollution comparison
 ✔️ Correlation between pollutants and weather conditions
 
-# What I learned
+# What I learned:
 As this is my First ever project with Python Pandas after giving 1 month dedicately towards learning Python and Python Libraries. This project helped me improve my data analysis skills and understand air pollution trends better. Here are some key takeaways:
 
 **Working with Python Libraries:** I improved my skills in Pandas for data manipulation and Matplotlib/Seaborn for visualizing trends effectively.
@@ -45,7 +45,7 @@ As this is my First ever project with Python Pandas after giving 1 month dedicat
 
 Overall, this project was a great learning experience that strengthened my skills in data handling, visualization, and interpretation
 
-# Results & Findings
+# Results & Findings:
 High pollution levels in major cities 🚦
 Seasonal variations observed ❄️☀️
 PM2.5 & PM10 have strong correlations with traffic and industrial activities
