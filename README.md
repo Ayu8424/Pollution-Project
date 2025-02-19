@@ -61,6 +61,6 @@ This project came with its own set of challenges, but each one was a great learn
 
 Despite these challenges, this project was a great learning opportunity, helping me improve my data cleaning, visualization, and analytical thinking skills. 
 
-# Conclusion
+# Conclusion:
 This analysis helped us understand air pollution trends in different cities. We found that Delhi, Patna, Gurugram, and Lucknow are among the most polluted cities, with PM2.5 and PM10 being the major pollutants affecting air quality.
 Pollution levels were highest between 2015-2018 but started improving after 2019. The trend shows that pollution decreases in the middle of the year, stays stable for a while, and then rises towards the end of the year. While air quality has improved over time, some cities still struggle with high pollution levels.
